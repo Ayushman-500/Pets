@@ -3,8 +3,8 @@ Pets App
 
 This app displays a list of pets and their related data that the user inputs. I learned to build this app in a Udacity course ([Android Basics Nanodegree by Google: Multiscreen Apps](https://www.udacity.com/course/android-basics-data-storage--ud845)). 
 
-Learnt  how  to  persist  data  and  used  SQLite  database  to  do  so.   
-Understood  the  working  of  content providers and loaded the data to the user interface with the help of cursor loader.
+- Learnt  how  to  persist  data  and  used  SQLite  database  to  do  so.   
+- Understood  the  working  of  content providers and loaded the data to the user interface with the help of cursor loader.
 
 Final Version
 --------------
